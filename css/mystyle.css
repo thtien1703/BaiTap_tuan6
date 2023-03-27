@@ -1,0 +1,98 @@
+#heading-container{
+    display: flex;
+    margin-top: 20px;
+}
+#logo {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+
+#item{
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+    align-items: center;
+    padding-left: 15px;
+}
+#it{
+    padding: 10px;
+
+}
+#right-task{
+    display: flex;
+    
+}
+#right-task{
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-left: 40%;
+    
+}
+#center-container{
+    width: 80%;
+    margin: 40px auto;
+}
+#rating{
+    display: flex;
+}
+#right-rating{
+    display: flex;
+    padding-left: 55%;
+    justify-content: space-around;
+}
+#icon-share{
+    display: flex;
+    width: 20px;
+    height: 20px;
+}
+#btn{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#big-img{
+    display: flex;
+    margin 20px;
+}
+#other-img{
+    margin: 10px;
+}
+#main-img{
+    margin: 5px;
+}
+
+#descripstion{
+    display: flex;
+    width: 70%;
+}
+#svc-product{
+    display: flex;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+#left-svc-product{
+    display: flex;
+    justify-content: space-around;
+    width: 50px;
+
+}
+#right-svc-product{
+    display: flex;
+    justify-content: space-around;
+    width: 100px ;
+}
+#icon-svc{
+    height: 30%;
+    width: 40%;
+    margin-top: 25px;
+    justify-items: center;
+}
+#right-product{
+   margin: 30px;
+   justify-content: center;
+   width 50px;
+
+}
+
